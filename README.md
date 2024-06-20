@@ -1,5 +1,3 @@
-Absolutely! Here's the README content formatted in Markdown (`README.md`) for easy integration into your project:
-
 # Microsoft SQL Server 2019 Docker Container
 
 This repository provides a streamlined way to run a Microsoft SQL Server 2019 database within a Docker container. It's perfect for development, testing, or experimenting with SQL Server without the need for a full local installation.
@@ -14,8 +12,8 @@ This repository provides a streamlined way to run a Microsoft SQL Server 2019 da
 1. **Clone the Repository:**
 
    ```bash
-   git clone [<repository-url>](https://github.com/ronaldyuwandika/pentaho-mssql-localenv.git)
-   cd <pentaho-mssql-localenv>
+   git clone [<repository-url>](https://github.com/ronaldyuwandika/mssql-local.git)
+   cd <mssql-local>
    ```
 
 2. **Environment Variables:**
